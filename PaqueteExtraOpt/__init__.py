@@ -1,8 +1,8 @@
-from .MetodosMultivariables.randomwalked import caminata_aleatoria
+from .MetodosMultivariables.caminataAleatoria import caminata_aleatoria
 from .MetodosMultivariables.cauchy import cauchy
-from .MetodosMultivariables.Reeves import fletcherReeves
-from .MetodosMultivariables.HookeJeeves import hooke_jeeves
-from .MetodosMultivariables.NelderMead import nelder_mead
+from .MetodosMultivariables.fletcherReeves import fletcherReeves
+from .MetodosMultivariables.hookeJeeves import hooke_jeeves
+from .MetodosMultivariables.nelderMeadSimplex import nelder_mead
 from .MetodosMultivariables.newton import newton
 
 from .MetodosUnivariables.Fibonacci import fibonacci_search
