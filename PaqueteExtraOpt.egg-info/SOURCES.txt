@@ -9,12 +9,13 @@ PaqueteExtraOpt/FuncionesPrueba/FuncionesMultivariables.py
 PaqueteExtraOpt/FuncionesPrueba/FuncionesUnivariables.py
 PaqueteExtraOpt/FuncionesPrueba/__init__.py
 PaqueteExtraOpt/MetodosMultivariables/HookeJeeves.py
-PaqueteExtraOpt/MetodosMultivariables/NelderMead.py
-PaqueteExtraOpt/MetodosMultivariables/Reeves.py
 PaqueteExtraOpt/MetodosMultivariables/__init__.py
+PaqueteExtraOpt/MetodosMultivariables/caminataAleatoria.py
 PaqueteExtraOpt/MetodosMultivariables/cauchy.py
+PaqueteExtraOpt/MetodosMultivariables/fletcherReeves.py
+PaqueteExtraOpt/MetodosMultivariables/hookeJeeves.py
+PaqueteExtraOpt/MetodosMultivariables/nelderMeadSimplex.py
 PaqueteExtraOpt/MetodosMultivariables/newton.py
-PaqueteExtraOpt/MetodosMultivariables/randomwalked.py
 PaqueteExtraOpt/MetodosUnivariables/BusquedaDorada.py
 PaqueteExtraOpt/MetodosUnivariables/Fibonacci.py
 PaqueteExtraOpt/MetodosUnivariables/IntervalHalving.py
